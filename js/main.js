@@ -1,5 +1,5 @@
 var elForma = document.querySelector('.forma');
-var elDegreeInput = elForma.querySelector('.degree-input');
+var elDegreeInput = elForma.querySelector('.number-input');
 var elFizz = elForma.querySelector('.fizz');
 var elBuzz = elForma.querySelector('.buzz');
 var elFizzBuzz = elForma.querySelector('.fizzbuzz');
